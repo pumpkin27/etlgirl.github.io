@@ -47,11 +47,13 @@ blockquote {
 }
 
 pre {
-  padding: 1rem 2rem;
+  /*padding: 1rem 2rem;*/
   overflow: auto;
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
+  line-height: 20px;
+  font-size: 13px;
 
   code {
     border: 0;
